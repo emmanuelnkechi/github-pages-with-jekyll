@@ -1,1 +1,4 @@
-All about my new blog
+---
+title: "Enkay blog"
+date: 2020-11-03
+---
